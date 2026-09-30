@@ -1,0 +1,9 @@
+# Downloaded data and model checkpoints
+data/
+model/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
